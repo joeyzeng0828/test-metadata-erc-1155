@@ -1,0 +1,29 @@
+{
+  "id": 1,
+  "image": "https://joeyzeng0828.github.io/test-metadata-erc-1155/tokens/token1.png",
+  "token_id": "1",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "health potion",
+  "description": "use this to heal",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Heal",
+      "value": 10
+    },
+    {
+      "trait_type": "Price",
+      "value": 10
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Small"
+    }
+  ]
+}

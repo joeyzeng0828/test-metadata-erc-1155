@@ -1,0 +1,29 @@
+{
+    "id": 3,
+    "image": "https://joeyzeng0828.github.io/test-metadata-erc-1155/tokens/token3.png",
+    "token_id": "3",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "normal sword",
+    "description": "A not very sharp sword. It is a common equipment for novice adventurers.",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Attack power",
+        "value": 5
+      },
+      {
+        "trait_type": "Price",
+        "value": 50
+      },
+      {
+        "trait_type": "Color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Size",
+        "value": "Normal"
+      }
+    ]
+  }

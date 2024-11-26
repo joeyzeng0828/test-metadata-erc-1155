@@ -1,0 +1,6 @@
+{
+    "name": "Immutable zkEVM Sample Project",
+    "description": "A sample project for minting NFTs on Immutable zkEVM",
+    "image": "https://joeyzeng0828.github.io/test-metadata-erc-1155/collection.png",
+    "external_link": "https://immutable.com" 
+}
